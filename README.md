@@ -1,5 +1,5 @@
 # Quote_Generator
-## Date:
+## Date:14.03.2026
 ## Objective:
 To create a simple thirukkural generator using HTML, CSS, and JavaScript that displays a new random thirukkural each time a button is clicked — similar to daily quote sections on blogs or productivity apps.
 
